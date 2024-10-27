@@ -11,7 +11,7 @@ to precision for the ultimate balance between minecraft and realism.
 - Added Chipped for a huge expansion on vanilla blocks (2000+ blocks)
 - Deep dark . . .
 # Built in Shaders
-The modpack has the complimentary shaders included.
+The modpack includes the complimentary shaders.
 Combined with the power of euphoria's patches it will
 greatly improve on your visuals. 
 The configuration is custom made
