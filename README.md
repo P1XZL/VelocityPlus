@@ -9,6 +9,8 @@ to precision for the ultimate balance between minecraft and realism.
 - Improved end dimension (betterend mod)
 - Create mod for a vanilla-like tech upgrade
 - Added Chipped for a huge expansion on vanilla blocks (2000+ blocks)
+- Improved Nether dimension
+- Improved Overworld generation
 - Deep dark . . .
 # Built in Shaders
 The modpack includes the complimentary shaders.
